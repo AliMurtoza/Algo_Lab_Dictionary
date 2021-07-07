@@ -1,0 +1,1000 @@
+a,এক
+aback,বিস্মিত
+abandon,ত্যাগ করা
+abandoned,পরিত্যক্ত
+abandonment,বর্জন
+abate,প্রকোপ হ্রাস করা
+abashed,হতভম্ব
+abbreviation,সংক্ষেপ করণ
+abed,শয্যাগত
+abdicate,অধিকার ত্যাগ করা
+aberration,আপাত বিচ্যুতি
+abide,মেনে চলা
+able,সক্ষম
+abnormal,অস্বাভাবিক
+aboard,জাহাজের মধ্যে
+abort,অস্বাভাবিক সমাপ্তি
+above,উপরে
+abrupt,আকস্মিক
+absent,অনুপস্থিত
+abstract,বিমূর্ত
+abuse,অপব্যবহার
+accent,ধ্বনির তীব্রতা
+accept,গ্রহণ করা
+acceptable,গ্রহনযোগ্য
+accommodate,সমন্বয়বিধান করা
+accommodation,বাসস্থান
+accompany,সহগমন করা
+accomplish,সুসম্পন্ন করা
+accountability,জবাবদিহিতা
+accumulate,জড়ো করা
+accuse,অভিযোগ করা
+acidity,অম্লতা
+acquire,অর্জন করা
+act,অভিনয় করা
+activate,সক্রিয়
+adhere,অনুগত থাকা
+admire,তারিফ করা
+adult,প্রাপ্তবয়স্ক
+adulterate,অপমিশ্রণ করা
+affect,প্রভাবিত করা
+affirmation,দৃঢ়োক্তি
+akin,সদৃশ
+alarming,উদ্বেগ জনক
+alleged,অভিযোগে বর্ণিত
+allocate,বরাদ্দ করা
+alternative,বিকল্প
+ambitious,উচ্চাভিলাষী
+animate,প্রাণসঞ্চার
+annoy,বিরক্ত করা
+applicable,প্রযোজ্য
+ascribe,আরোপ করা
+attempt,প্রচেষ্টা
+awkward,বেঢপ
+back,পিছনে
+background,পটভূমি
+bacterium,ব্যাকটেরিয়া
+baffling,হতাশজনক
+ban,নিষিদ্ধ করা
+bank,তীর
+banker,মহাজন
+bard,চারণ
+bar,নিষিদ্ধ করা
+based,ভিত্তি করে
+basic,প্রাথমিক
+bass,গলার নীচু খাদের সুর
+bastard,অবৈধ সন্তান
+bastion,বুরুজ
+battle,যুদ্ধ
+battlefield,যুদ্ধক্ষেত্র
+battlefront,যুদ্ধক্ষেত্র
+battleground,যুদ্ধক্ষেত্র
+beat,পরাজিত করা
+because,কারণ
+bed,বিছানা
+belated,বিলম্বিত
+benevolence,পরোপকারী
+besmirch,বদনাম করা
+betterment,উন্নতিসাধন
+bet,বাজি ধরা
+bibulous,শোষক
+biochemical,জৈব-রাসায়নিক
+bitch,কুক্কুরী
+biography,জীবনী
+blacksmith,লোহার
+blank,ফাঁকা
+bleeding,রক্তক্ষরণ
+blessing,আশির্বাদ
+blind,অন্ধ
+bloody,রক্তাক্ত
+boarding,আবাসিক
+bond,বন্ধন
+bone,হাড়
+boost,গতি বৃদ্ধি
+borrow,ধার করা
+boundary,সীমানা
+boycott,বর্জন
+brave,সাহসী
+broken,ভাঙা
+build,নির্মাণ
+burden,বোঝা
+burner,চুল্লি
+busy,ব্যস্ত
+button,বাটন
+buy,কেনা
+cabbage,বাঁধাকপি
+cable,কেবল
+calculate,গণনা
+cache,ক্যাশ
+calculated,গণনাকৃত
+calendar,বর্ষপঞ্জি
+calibration,পরিমাপ নির্দিষ্ট-করণ
+call,ডাক দেওয়া
+calm,শান্ত
+camel,ঊট
+campaign,সংগঠিত প্রচারকার্য
+campus,ক্যাম্পাস
+canal,খাল
+cancel,বাতিল
+cancellation,বাতিল
+cancer,ক্যান্সার
+canvas,চিত্রপট
+canyon,গিরিখাত
+capability,সক্ষমতা
+capable,সক্ষম
+capacitor,ধারক
+capita,মাথাপিছু
+capital,রাজধানী
+capitalism,পুঁজিবাদ
+captain,অধিনায়ক
+cargo,মাল
+carnage,হত্যাকান্ড
+career,জীবিকা
+caretaker,তত্ত্বাবধায়ক
+carry,বহন করা
+cascade,জলপ্রপাত
+cast,নিক্ষেপ করা
+castle,দুর্গ
+casual,অসতর্ক
+catastrophe,চরম বিপর্যয়
+catch,ধরা
+cease,বিরত থাকা
+celebration,উদযাপন
+central,কেন্দ্রীয়
+centre,কেন্দ্র
+chain,শৃঙ্খল
+challenge,প্রতিদ্বন্দ্বিতা
+change,পরিবর্তন করা
+character,অক্ষর
+characteristic,বৈশিষ্ট্য
+cheap,সস্তা
+cheat,প্রতারণা করা
+check,পরীক্ষা করা
+circle,বৃত্ত
+citizen,নাগরিক
+dad,বাবা
+daily,প্রতিদিন
+dally,অলস সময় কাটানো
+dam,বাঁধ
+damage,ক্ষতি
+damaged,ক্ষতিগ্রস্ত
+danger,বিপদ
+dangerous,বিপজ্জনক
+dark,অন্ধকার
+data,তথ্য
+database,ডেটাবেস
+daughter,কন্যা
+dawn,ভোর
+day,দিন
+daylight,দিনের আলো
+daylong,দিনব্যাপী
+dead,মৃত
+deadlock,অচলবস্থা
+deadly,মারাত্নক
+deaf,বধির
+deal,চুক্তি
+debate,বিতর্ক
+debit,নগদ
+debt,ঋণ
+debug,ত্রুটিমুক্ত করা
+decide,নির্ধারণ করা
+declare,ঘোষণা করা
+decline,অস্বীকার
+deduction,অনুমান
+deem,গণ্য করা
+deep,গভীর
+defeat,পরাজিত করা
+defect,খুঁত
+defined,উল্লেখকৃত
+definite,নিশ্চিত
+demand,দাবী করা
+democracy,গণতন্ত্র
+departure,বহির্গমন
+depend,নির্ভর কর
+depression,হতাশা
+depth,গভীরতা
+different,আলাদা
+differently,আলাদাভাবে
+difficult,কঠিন
+dull,নিরানন্দময়
+dumb,বোবা
+duty,কর্তব্য
+dwarf,বামন
+dwell,বাস করা
+dweller,বাসিন্দা
+dye,রং করা
+dynamic,গতিশীল
+each,প্রত্যেক
+ear,কান
+earlier,গোড়ার দিকে
+earliest,যথাশীঘ্র
+early,আগের
+earn,আয় করা
+earring,কানের দুল
+earthbound,পৃথিবী অভিমুখী
+earthly,সাংসারিক
+earthquake,ভূকম্পন
+easy,সহজ
+eat,খাওয়া
+eatable,খাদ্য
+eccentricity,উত্‍কেন্দ্রতা
+eclectic,সঙ্কীর্ণতামুক্ত
+eclipse,গ্রহণ
+ecliptic,ক্রান্তিবৃত্ত
+economic,অর্থনৈতিক
+economics,অর্থনীতি
+economy,অর্থব্যবস্থা
+educated,শিক্ষিত
+education,শিক্ষা
+educational,শিক্ষা সংক্রান্ত
+educator,শিক্ষাবীদ
+effect,প্রভাব
+effective,কার্যকরী
+effectively,কার্যকরভাবে
+effectiveness,কার্যকারিতা
+effects,প্রভাব
+efficient,কুশলী
+effort,কঠোর প্রচেষ্টা
+effortless,অনায়াস
+elbow,কনুই
+elder,বয়োজ্যেষ্ঠ
+elect,নির্বাচিত করা
+elected,নির্বাচিত
+election,নির্বাচন
+electric,বৈদ্যুতিক
+eligibility,যোগ্যতা
+eligible,উপযুক্ত
+eliminate,ধ্বংস করা
+elimination,ধ্বংস
+elite,অভিজাত
+emancipate,মুক্ত করা
+embarrassment,নাকানিচোবানি
+embassy,দূতাবাস
+embedded,সন্নিবেশিত
+ensure,নিশ্চিতকরণ
+enter,ঢুকুন
+entered,ঢোকানো
+entering,প্রবেশ করা
+entities,সত্ত্বা
+entity,সত্ত্বা
+entrance,প্রবেশ
+evidence,প্রমাণ
+evil,শয়তান
+evolution,বিবর্তন
+evolve,বিবর্ধিত হওয়া
+exact,সঠিক
+eyes,চোখ
+fabric,গঠন
+fabulous,অলীক
+face,মুখ
+facilities,সুবিধা
+facility,সুবিধা
+fact,ঘটনা
+factor,ফ্যাক্টর
+factory,ফ্যাক্টরি
+failed,ব্যর্থ হওয়া
+failure,ব্যর্থতা
+faint,ক্ষীণ
+fair,অনুকূল
+faith,বিশ্বাস
+faithful,বিশ্বাসী
+faithfully,যথাযথভাবে
+fake,নকল
+fall,পড়া
+false,মিথ্যা
+fame,সুনাম
+famed,বিখ্যাত
+familiar,পরিচিত
+family,পরিবার
+famous,বিখ্যাত
+fast,দ্রুত
+faster,দ্রুততর
+fastness,দ্রুততা
+fatal,মারাত্মক
+fate,ভাগ্য
+father,আব্বা
+fault,দোষ
+faultless,নিখুঁত
+faults,দোষ
+faulty,খারাপ
+favor,প্রশ্রয়
+favorite,প্রিয়
+favorites,প্রিয়
+favour,আনুকূল্য
+fellow,সহযোগী
+female,মহিলা
+feminine,স্ত্রীসুলভ
+fence,বেড়া
+fennel,মৌরী
+fertile,উর্বর
+festival,উৎসব
+festivals,উৎসব
+festive,উল্লসিত
+fetch,এনে দেওয়া
+fetching,আনা হচ্ছে
+fight,লড়াই করা
+fighter,লড়াকু
+figure,চিত্র
+finally,পরিশেষে
+finance,রাজস্ব
+financial,আর্থিক
+find,খুঁজে পাওয়া
+forecast,পূর্বাভাস
+foreground,উপরের অংশ
+foreign,বিদেশী
+foreigner,বিদেশী
+fraction,ভগ্নাংশ
+fractured,চুর্ণীভূত
+fragrance,সৌরভ
+fully,সম্পূর্ণভাবে
+fun,মজা
+function,কাজ
+fundamental,মৌলিক
+fundamentalism,মৌলবাদ
+funeral,শেষকৃত্য
+funniest,হাস্যকর
+furious,ক্রোধোন্মত্ত
+furnace,চুল্লি
+furniture,আসবাবপত্র
+further,আরও
+fusion,জোড়া লাগানো 
+fussy,বিরক্তিকর
+future,ভবিষ্যৎ‍‌
+fuzzy,অস্পষ্ট
+g,জি
+gadget,ছোট যন্ত্র
+gain,লাভ
+gain,লাভ করা
+gains,লাভ
+galaxy,ছায়াপথ
+gallery,গ্যালারি
+galloping,দ্রুতবেগে ধাবমান
+game,খেলা
+games,খেলা
+gang,দল
+gem,রত্ন
+gems,রত্ন
+gender,লিঙ্গ
+gender,লিঙ্গ
+gene,জিন
+general,সাধারণ
+generally,সাধারণত
+generating,তৈরি করা হচ্ছে
+generation,উৎ‍পাদন
+generator,উৎ‍পাদক
+generic,সাধারণ
+generous,উদার
+generously,উদারভাবে
+genie,জিন
+genius,প্রতিভাবান
+genocide,গণহত্যা
+gift,দান
+gifted,প্রতিভাবান
+gimmick,চটকদার বস্তু
+ginger,আদা
+girl,বালিকা
+give,দেওয়া
+go,যাওয়া
+goal,লক্ষ্য
+goat,ছাগল
+god,আল্লাহ্
+goddess,দেবী
+gossip,গালগল্প
+govern,শাসন করা
+governess,গৃহশিক্ষিকা
+governing,শাসক
+government,সরকার
+governmental,সরকারি
+governor,রাজ্যপাল
+grab,ধরা
+grace,দয়া
+guess,অনুমান করা
+guest,অতিথী
+guests,অতিথি
+guide,সহায়িকা
+habit,অভ্যাস
+habits,অভ্যাস
+hail,অভিনন্দন জানান
+half,অর্ধেক
+halo,জ্যোতিশ্চক্র
+ham,শুকরের মাংস
+hammer,হাতুড়ি চালান
+hand,হাত
+handbook,গাইডবই
+hammer,হাতুড়ি
+hamper,বড় ঝুড়ি
+handshake,হাত মেলানো
+handsome,সুদর্শন
+handy,কাজের
+hang,ঝোলান
+happen,সংঘটিত হওয়া
+happening,ঘটনা
+happiness,সুখ
+happy,সুখী
+hard,শক্ত
+harmful,ক্ষতিকর
+harmless,নিরীহ
+harmonic,ঐকতান
+harmony,সম্প্রীতি
+harvest,ফসল ফলানো
+has,আছে
+head,নেতৃত্ব দেওয়া
+headache,মাথা ব্যাথা
+header,শিরোনাম
+heading,শিরোনাম
+headings,শিরোনাম
+headline,শিরোনাম
+headquarters,সদর
+healer,আরোগ্যকারী
+health,স্বাস্থ্য
+healthcare,স্বাস্থ্যপরিশেবা
+healthy,স্বাস্থ্যসম্মত
+hear,শোনা
+hearsay,গুজব
+heart,হৃদয়
+heaven,স্বর্গ
+heavier,অধিকতর ওজনদার
+heaviest,সর্বোচ্চ ওজনদার
+heavy,ভারী
+heavyweight,হভিওয়েট
+height,উচ্চতা
+heinous,ঘৃণ্য
+held,ধরা
+helicopter,হেলিকপ্টার
+helix,হেলিক্স
+hell,দোযখ
+hide,লুকোন
+hierarchy,ক্রমোচ্চ শ্রেণীবিভাগ
+high,উচ্চ
+holster,খাপ
+holy,পবিত্র
+home,বাড়ি
+honest,সৎ
+honey,মধু
+honeymoon,মধুচন্দ্রিমা
+honor,সম্মান
+honorable,সম্মানিত
+human,মানবিক
+humane,মানবিক
+ice,বরফ
+idea,ধারনা
+ideal,আদর্শ
+idealism,ভাববাদ
+ideally,আদর্শভাবে
+identical,অনুরূপ
+identification,পরিচয়
+identifier,চিহ্নিত
+identify,সনাক্ত করা
+identity,পরিচয়
+idle,অলস
+idol,প্রতিমা
+ignorance,অবহেলা
+ignore,উপেক্ষা
+ignoring,উপেক্ষা করছে
+ill,অসুস্থ
+ill,অসুস্থ
+illegal,বেআইনি
+illness,অসুস্থতা
+illusion,মরীচিকা
+illustrate,অলংকরণ করা
+imagination,কল্পনা
+imagine,কল্পনা করা
+imbibe,পান করা
+imitate,নকল করা
+immeasurable,অপরিমেয়
+immediate,অবিলম্বে
+immediately,তাৎ‍ক্ষণিকভাবে
+immensely,প্রকান্ডভাবে
+inactive,নিষ্ক্রিয়
+inadequate,অপর্যাপ্ত
+inappropriate,বেমানান
+inauguration,উদ্বোধন
+incalculable,অপরিমেয়
+incapable,অক্ষম
+inference,অনুসিদ্ধান্ত
+inferential,অনুমানসিদ্ধ
+infertile,অনুর্বর
+infinite,অনন্ত
+infinitesimal,ক্ষুদ্রাদপিক্ষুদ্র
+infinity,অসীম
+integer,পূর্ণসংখ্যা
+integral,অখন্ড
+integration,একত্রীকরণ
+integrity,শুদ্ধতা
+intellectual,বুদ্ধিজীবি
+intellectually,বুদ্ধিমত
+intelligence,মেধা
+intelligent,মেধাবী
+investigation,তদন্ত
+investigator,তদন্তকারী
+investment,বিনিয়োগ
+investment,বিনিয়োগ
+invincible,অজেয়
+invisible,অদৃশ্য
+invitation,আমন্ত্রণ
+invite,আমন্ত্রণ করা
+involve,অন্তর্ভুক্ত
+itch,চুলকানো
+itchy,চুলকায় এমন
+item,পদ
+items,পদগুলো
+jail,কারারুদ্ধ করা
+jailed,জেলবন্দী
+jailhouse,জেলখানা
+jam,ঠাসাঠাসি করা
+jar,জার
+jaw,চোয়াল
+jawbone,চোয়াল
+jealousy,জ্বলন
+jellyfish,জেলিফিশ
+jest,পরিহাস
+jetty,জাহাজঘাটা
+jewel,রত্ন
+jeweler,জহুরী
+jolly,প্রফুল্ল
+journalism,সাংবাদিকতা
+journalist,সাংবাদিক
+journalistic,সাংবাদিকসুলভ
+jovial,আমুদে
+joyful,আনন্দময়
+jubilation,আনন্দোৎসব
+judgement,বিচার
+jump,লাফান
+jumps,লাফ দেয়
+jungle,ক্রান্তীয় অরণ্য
+jurisdiction,অধিকারভুক্ত অঞ্চল
+just,শুধু
+justice,সুবিচার
+jute,পাট
+keep,রাখা
+key,চাবি
+keyboard,কীবোর্ড
+kidnap,অপহরণ করা
+kidney,কিডনি
+kill,হত্যা করা
+kiss,চুম্বন করা
+kit,কিট
+kitchen,রান্নাঘর
+kite,ঘুড়ি
+know,জানা
+lab,গবেষণাগার
+label,লেবেল
+labels,লেবেল
+labor,শ্রম
+laborer,শ্রমিক
+labour,শ্রম
+lack,অভাব
+lad,কিশোর
+ladder,মই
+lake,হ্রদ
+lamb,ভেড়া
+lamp,দীপ
+land,জমি
+landlord,বাড়ির মালিক
+landmark,পথনির্দেশক চিহ্ন
+later,পরবর্তী কালে
+latest,সাম্প্রতিক
+latex,লেটেক্স
+latitude,অক্ষাংশ
+laugh,পরিহাস করা
+laughs,হাসা
+laughter,হাসি
+launch,চালু
+lava,লাভা
+law,আইনকানুন
+laws,আইনকানুন
+lawyer,আইনজীবি
+left,বামপার্শ্ব
+leg,পা
+legacy,উত্তরাধিকারসূত্রে প্রাপ্ত সম্পত্তি
+legal,আইনি
+legally,আইনত
+legation,পোপের দূত প্রেরণ
+legend,প্রতিক চিহ্ন
+lessons,পাঠ
+let,দেওয়া
+letter,চিঠি
+level,ধাপ
+links,লিঙ্ক
+linkup,সংযোগ
+lion,সিংহ
+lip,ঠোঁট
+list,তালিকাভুক্ত করা
+listed,তালিকাভুক্ত
+listen,শোন
+locality,স্থান
+locally,স্থানীয়ভাবে
+locate,অবস্থান নির্দেশ
+located,অবস্থিত
+location,অবস্থান
+logarithm,লগারিদম
+logging,লগ লেখা
+logic,যুক্তি
+logical,যৌক্তিক
+luck,ভাগ্য
+luckily,ভাগ্যক্রমে
+lucky,ভাগ্যবান
+luxurious,বিলাসবহুল
+machine,মেশিন
+mad,পাগল
+made,তৈরী
+madness,পাগলামি
+magazine,ম্যাগাজিন
+magazines,সাময়িক পত্রিকা
+magenta,ম্যাজেন্টা
+magic,জাদু
+magician,জাদুকর
+main,প্রধান
+mainly,প্রধানত
+mainstream,মূলধারা
+maintain,রক্ষণাবেক্ষণ
+maintained,রক্ষণাবেক্ষণকৃত
+majestic,রাজকীয়
+majestically,রাজকীয়ভাবে
+major,প্রধান
+majority,সংখ্যাগুরু
+make,তৈরি করা
+male,পুরুষ
+malformed,বিকৃত
+mall,বিপণী বিতান
+malnourishment,অপুষ্টি
+maltreatment,দুর্ব্যবহার
+manage,পরিচালনা করা
+manageable,সামলানোরযোগ্য
+management,ব্যবস্থাপনা
+manager,ব্যবস্থাপক
+managing,কার্যনির্বাহী
+mandate,জনাদেশ
+mandatory,আবশ্যিক
+manhood,পূর্ণ বয়স
+manufacture,উৎ‍পাদন করা
+manufacturer,প্রস্তুতকারক
+manufacturing,উৎ‍পাদন
+manure,সার
+many,অনেক
+marriage,বিবাহ
+married,বিবাহিত
+marry,বিয়ে করা
+marshal,শান্তিরক্ষা
+martyr,শহীদ
+melt,গলান
+melting,গালন
+member,সদস্য
+members,সদসবৃন্দ
+membership,সদস্যপদ
+militant,উগ্রপন্থী
+military,সামরিক
+militia,রক্ষীবাহিনী
+milk,দুধ
+mnemonic,স্মৃতি-সহায়ক
+moan,বিলাপ করে কথা বলা
+mobile,চলমান
+mystery,রহস্য
+mystical,রহস্যজনক
+nail,নখ
+naked,উলঙ্গ
+name,নাম
+narrative,ধারাবাহিক বর্ণনা
+narrow,সরু
+narrowly,অল্পের জন্য
+nascent,জায়মান
+nation,জাতি
+national,জাতীয়
+native,স্থানীয়
+natural,প্রাকৃতিক
+naturally,স্বাভাবিকভাবে
+nature,প্রকৃতি
+necessary,প্রয়োজনীয়
+necklace,মালা
+need,প্রয়োজন
+nephew,ভাগনে
+nerd,একরোখা প্রযুক্তিবিদ
+nerve,স্নায়ু
+nervous,স্নায়বিক
+noon,মধ্যাহ্ন
+noontime,দুপুর
+norm,প্রথা
+normal,স্বাভাবিক
+normalize,সমন্বয়সাধন করা
+notepad,খাতা
+notes,নোট
+noteworthy,উল্লেখযোগ্য
+nothing,কিছুইনা
+notice,নোটিস
+numerous,অনেক
+nurse,সেবিকা
+nut,বাদাম
+nutrition,পুষ্টিবিধান
+oaf,বোকা লোক
+oasis,মরুদ্যান
+obedience,বাধ্যতা
+obese,মোটা
+objection,আপত্তি
+objective,লক্ষ্য
+objects,বস্তু
+obligation,বাধ্যবাধকতা
+oblige,সুবিধা দেওয়া
+occasion,উপলক্ষ্য
+occasionally,কখনও কখনও
+occupation,পেশা
+occupied,অধিকৃত
+occupy,দখল করা
+only,কেবল
+onward,পরবর্তী
+opaque,অস্বচ্ছ
+open,মুক্ত
+optimism,আশাবাদ
+optimistic,আশাবাদী
+optimum,সর্বোৎ‍কৃষ্ট
+option,অপশন
+overpopulation,অত্যাধিক জনসংখ্যা
+override,অগ্রাহ্য করা
+oversee,তদারকি করা
+owner,মালিক
+ownership,মালিকানা
+oxidation,জারণ
+oxide,অক্সাইড
+oyster,ঝিনুক
+pacifist,শান্তিকামী
+pack,প্যাক
+package,প্যাকেজ
+packet,প্যাকেট
+paddle,বৈঠা
+padlock,তালা
+page,পৃষ্ঠা
+pancreas,অগ্নাশয়
+panel,প্যানেল
+panic,আতঙ্ক
+pant,হাঁপানো
+parade,প্রদর্শন করান
+paradise,স্বর্গোদ্যান
+passed,পাশ
+passenger,যাত্রী
+passengers,যাত্রী
+passion,গভীর অনুরাগ
+passport,পাশপোর্ট
+passwords,পাসওয়ার্ড
+past,অতীত
+paternity,পিতৃত্ব
+path,পাথ
+paths,পাথ
+patience,ধৈর্য্য
+patient,রুগী
+pay,প্রদান করা
+payment,অর্থপ্রদান
+pea,মটর
+peace,শান্তি
+perceives,উপলব্ধি করা
+percent,শতাংশ
+percentage,শতকরা
+perennial,চিরজীবী
+perfect,নির্ভুল
+phenomenal,বিস্ময়কর
+phenomenon,প্রত্যক্ষ ঘটনা
+philosopher,দার্শনিক
+philosophical,দার্শনিক
+pilgrim,তীর্থযাত্রী
+pilgrimage,তীর্থ
+plagiarize,অন্যের লেখা চুরি করা
+plague,প্লেগ
+plain,সাধারন
+plan,পরিকল্পনা
+pointless,লক্ষ্যহীন
+poison,বিষ
+polarity,মেরু
+popular,জনপ্রিয়
+popularity,জনপ্রিয়তা
+popularly,জনপ্রিয়ভাবে
+populated,জনঅধ্যুষিত
+population,জনসংখ্যা
+quaint,খাপ-ছাড়া
+qualification,যোগ্যতা
+qualified,যোগ্য
+qualitative,গুণগতভাবে
+question,প্রশ্ন করা
+questionnaire,প্রশ্নমালা
+queue,সারি
+queued,সারিবদ্ধ
+quick,দ্রুত
+quit,বেরিয়ে এসো
+quite,সম্পূর্ণ
+rabbit,খারগোশ
+race,প্রতিযোগিতা
+racism,বর্ণবাদ
+racist,বর্ণবাদী
+radish,মূলা
+radius,ব্যাসার্ধ
+rag,ছেঁড়া কাপড়
+rapid,দ্রুত
+rapidly,দ্রুতভাবে
+rare,বিরল
+rarely,কদাচিৎ
+rat,ইঁদুর
+rate,হার
+rather,বরং
+raw,কাঁচা
+ray,রশ্মি
+reach,পৌঁছান
+reacquire,পুনরায় অধিগ্রহন করা
+react,প্রতিক্রিয়া ব্যক্ত করা
+reaction,প্রতিক্রিয়া
+reactivity,সক্রিয়তা
+reactor,পারমানবিক চুল্লি
+read,পড়া
+reasearch,গবেষণা
+reason,কারণ দেখান
+reasonable,গ্রহণযোগ্য
+reasonably,যুক্তিযুক্ত ভাবে
+reasons,কারণ
+recommend,সুপারিশ
+recommendation,সুপারিশ
+recommendations,সুপারিশ
+recommended,সুপারিশকৃত
+recruit,নিয়োগ করা
+recruiter,নিয়োগকারী
+rectangle,চৌকো
+redirection,দিক পরিবর্তন
+rediscover,পুনরায় আবিষ্কার
+redistribute,পুনর্বিতরণ করা
+redo,আবার করা
+reduce,হ্রাস করা
+regression,প্রত্যাবৃত্তি
+regret,অনুতাপ করা
+regular,নিয়মিত
+regularly,নিয়মিতভাবে
+regulation,নিয়মকানুন
+remarkable,লক্ষণীয়
+remarks,মন্তব্য
+right,ঠিক
+rights,অধিকার
+rigid,কঠিন
+ruler,শাসক
+rules,নিয়ম
+ruling,শাষক
+run,চল
+sack,বরখাস্ত
+sacred,পবিত্র
+sad,দুঃখিত
+safe,নিরাপদ
+sanction,অনুমোদন  করা
+sand,বালি
+servant,চাকর
+serve,সরবরাহ করা
+server,সার্ভার
+servers,সার্ভার
+service,চাকরি
+shade,ছায়া
+shaded,প্রচ্ছায়িত
+shades,ছায়া
+shadow,ছায়া
+shanty,ঝুপড়ি
+shape,আকৃতি
+share,শেয়ার
+shirt,শার্ট
+shit,মল
+shivering,কাঁপা
+shivery,শিহরিত
+shock,ধাক্কা
+silky,রেশমী
+silver,রুপা
+similar,অনুরুপ
+table,টেবিল
+tableau,স্থির উপস্থাপনা
+tablespoon,বড় চামচ
+tablet,বড়ি
+tabloid,ট্যাবলয়েড
+taboo,নিষিদ্ধ
+take,নাও
+tale,গল্প
+talent,প্রতিভা
+talented,প্রতিভাবান
+tape,টেপ
+tapes,ফিতা
+tar,টার
+target,নিশানা
+technical,প্রযুক্তিগত
+technician,কারিগর
+technique,কৌশল
+technology,প্রযুক্তি
+terms,শর্তাবলী
+terrestrial,পার্থিব
+terribly,ভয়ঙ্করভাবে
+they,তারা
+thick,পুরু
+thicker,অপেক্ষাকৃত পুরু
+thief,চোর
+thin,পাতলা
+tidy,সুবিন্যস্ত
+tied,বদ্ধ
+tier,সারি
+tiered,সারিবদ্ধ
+tiff,টিফ
+tiger,বাঘ
+tile,টালি
+tolerate,সহ্য করা
+toleration,সহনসীমা
+tomato,টমেটো
+tomorrow,আগামিকাল
+trust,বিশ্বাস করা
+truth,সত্য
+twin,জমজ
+unaltered,অপরিবর্তিত
+unanticipated,অপ্রত্যাশিত
+unattainable,পাওয়ার বাইরে
+unavailable,পাওয়া যাচ্ছে না
+unborn,জন্মায়নি এমন
+uncertain,অনিশ্চিত
+uncommon,বিরল
+unconfirmed,অসমর্থিত
+uncontested,প্রতিদ্বন্দ্বিতাবিহীনভাবে
+uncorrected,অসংশোধিত
+undeclared,অঘোষিত
+undefeated,অপরাজিত
+unfilled,খালি
+unfit,অক্ষম
+unfixed,অমিমাংসিত
+unforgivable,ক্ষমার অযোগ্য
+unfortunate,দুর্ভাগ্যজনক
+unlock,আনলক
+unmarketable,বাজার অযোগ্য
+unmask,মুখোশ খুলে দেওয়া
+unnamed,নামহীন
+unnecessary,অপ্রয়োজনীয়
+valid,বৈধ
+validation,বৈধতা
+validity,বৈধতা
+valley,উপত্যকা
+victim,শিকার
+victorious,বিজয়ী
+victory,জয়লাভ
+video,ভিডিও
+videocasette,ভিডিও ক্যাসেট
+view,দেখা
+visitor,পরিদর্শক
+visitors,পরিদর্শক
+visual,দৃষ্টি সংক্রান্ত
+wail,বিলাপ করা
+waist,কোমর
+waistcoat,ওয়েস্টকোট
+wait,অপেক্ষা করা
+waiver,স্বত্বত্যাগ
+wake,উঠান
+wakeful,জাগ্রৎ
+walk,হাঁটা
+write,লেখা
+writer,লেখক
+wrong,ভূল
+x,এক্স
+xenon,গ্যাসবিশেষ
+yard,এক গজ
+yarn,বুনা সুতা
+yawn,হাই তোলা
+year,বছর
+yellow,হলদে
+you,তুমি
+young,যুবক
+younger,ছোট
+youngest,সর্বকনিষ্ঠ
+youngster,বালক
+your,তোমার
+yours,আপনার
+yourself,স্বয়ং
+youth,যুবা
+youthful,তারুণবয়স্ক
+zero,শূন্য
+zeros,শুন্য
+zest,স্বাদজনক বা স্বদবর্ধক বস্তু
+zinc,দস্তা
+zip,বাতাসের মধ্য দিয়ে গুলি ছুটার শব্দের মত শব্দ
+zone,অঞ্চল
+zones,অঞ্চল
+zoo,চিড়িয়াখানা
+zoology,প্রাণিবিদ্যা
+zoom,ছোট বা বড় করা
+zany,ভাড়
+zap,জ্যাপ
+zeal,আগ্রহ
+zealot,অতি গোড়া লোক
+zealous,অত্যন্ত আগ্রহশীল
+zebra,জেবরা
+zenith,সুবিন্দু
